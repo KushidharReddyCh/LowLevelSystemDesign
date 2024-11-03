@@ -1,3 +1,3 @@
-- Low Level System Design
+Low Level System Design
 
-  1. Elevator Design - https://tinyurl.com/elevatorLLD
+1. Elevator Design - https://tinyurl.com/elevatorLLD
