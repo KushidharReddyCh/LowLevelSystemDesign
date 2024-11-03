@@ -3,6 +3,7 @@ package elevator_car;
 import java.util.PriorityQueue;
 
 public class ElevatorController{
+    // make this a interace and use strtegy pattern
     PriorityQueue<Integer> upMinPQ;
     PriorityQueue<Integer> downMaxPQ;
     ElevatorCar elevatorCar;
